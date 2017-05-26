@@ -1,3 +1,2 @@
 # gitdocs
-My first repository
-A few Git and Github docs and tutorials
+My first repository: a few Git and Github docs and tutorials
