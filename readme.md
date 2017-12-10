@@ -1,4 +1,3 @@
 # git
 
-A few git and github docs and tutorials.
-
+This repo contains tutorials and notes related to git and github.
