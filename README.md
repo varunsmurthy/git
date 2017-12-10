@@ -1,4 +1,4 @@
 # git
 
-A few Git and Github docs and tutorials
+A few git and github docs and tutorials.
 
